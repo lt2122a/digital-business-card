@@ -17,7 +17,7 @@ plaintext
 
 ## 五、页面公开访问方式
 本项目已托管至 Gitee 平台，可通过以下公开链接访问：
-- 仓库地址：https://gitee.com/lt2122a/digital-business-card
+- 仓库地址：[https://gitee.com/lt2122a/digital-business-card]
 - 在线预览：https://lt2122a.gitee.io/digital-business-card/
 
 ## 六、最能体现“软件作品”而非“单个页面”的一点
