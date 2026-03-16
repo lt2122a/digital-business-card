@@ -1,6 +1,3 @@
-# digital-business-card
-Personal Digital Business Card 个人数字名片
-
 ## 一、作品名称
 Personal Digital Business Card（个人数字名片）
 
